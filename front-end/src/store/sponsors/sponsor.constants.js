@@ -1,0 +1,9 @@
+// SPONSORS
+export const FETCH_SPONSORS = "FETCH_SPONSORS";
+export const ADD_SPONSOR = "ADD_SPONSOR";
+export const EDIT_SPONSOR = "EDIT_SPONSOR";
+export const REMOVE_SPONSOR = "REMOVE_SPONSOR";
+export const SET_SPONSORS = "SET_SPONSORS";
+
+// COMMON
+export const SET_MESSAGE = "SET_MESSAGE";
